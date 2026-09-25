@@ -1,9 +1,0 @@
-﻿  Application.cpp
-  InputManager.cpp
-C:\Users\2416075\Desktop\2026冬\winter\winter\Application.cpp(3,10): error C1083: include ファイルを開けません。'Manager/InputManager.h':No such file or directory
-C:\Users\2416075\Desktop\2026冬\winter\winter\InputManager.h(4,10): error C1083: include ファイルを開けません。'../Common/Vector2.h':No such file or directory
-  (ソース ファイル 'InputManager.cpp' をコンパイルしています)
-  
-  main.cpp
-  Vector2.cpp
-  コードを生成中...
